@@ -8,3 +8,4 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 Autores:
 
 - Rodrigo Rocha Gomes e Souza
+- Fernando de Macedo Passos
