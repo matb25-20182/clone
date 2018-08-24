@@ -7,4 +7,5 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 
 Autores:
 
+- Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
