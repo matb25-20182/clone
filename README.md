@@ -7,4 +7,5 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 
 Autores:
 
+- Felipe Abreu - <https://github.com/Baquara>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
