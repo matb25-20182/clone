@@ -10,3 +10,4 @@ Autores:
 - Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
+- Wiliam Gomes Conceição - <https://github.com/Will19>
