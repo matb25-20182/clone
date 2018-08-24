@@ -6,8 +6,6 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 2. Adicionar o nome da lista de autores do projeto, que se encontra neste arquivo (`README.md`), respeitando a ordem alfabética. Ao lado do nome, o estudante deve colocar o link para sua página no GitHub.
 
 Autores:
-
-<<<<<<< HEAD
 =======
 - Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
