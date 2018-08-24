@@ -7,5 +7,9 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 
 Autores:
 
+<<<<<<< HEAD
+=======
+- Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
+>>>>>>> 6e78fbc8a69d8ed16c795169e5cd04bc592a947e
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
