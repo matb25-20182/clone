@@ -8,6 +8,7 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 Autores:
 =======
 - Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
+- Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
