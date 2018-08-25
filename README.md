@@ -11,5 +11,6 @@ Autores:
 - Daniel David Fernandes - <https://github.com/danieldavidf>
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
+- Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
