@@ -1,0 +1,1 @@
+Meu nome é Daniel David Fernandes, sou aluno da disciplina, e espero aprender técnicas e ferramentas que serão muito úteis nos meus futuros projetos de desenvolvimento de software, como controle de versionamento e testes automatizados.
