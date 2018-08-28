@@ -15,5 +15,6 @@ Autores:
 - Gabriel Dahia Fernandes - <https://github.com/gdahia>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
+- Roberto Bruno Leal Andrade - <https://github.com/rbrunoleal>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
