@@ -12,7 +12,8 @@ Autores:
 - Felipe Araújo da Silva - <https://github.com/liooh>
 - Felipe Rebouças Ferreira Abreu - <https://github.com/baquara>
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
-- Mayara de Jesus Silva - <https://github.com/mayaradjs>
+- Gabriel Dahia Fernandes - <https://github.com/gdahia>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
+- Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
