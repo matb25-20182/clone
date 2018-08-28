@@ -22,3 +22,4 @@ Autores:
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Ubiratan Correia Barbosa Neto - <https://github.com/ubiratan37>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
+- Ari Santos Costa - <https://github.com/rackiduck>
