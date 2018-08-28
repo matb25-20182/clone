@@ -1,0 +1,1 @@
+Meu nome é Bruno Guilera, sou aluno, e espero aprimorar minhas habilidades de desenvolvimento de software.
