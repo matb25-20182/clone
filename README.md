@@ -9,6 +9,7 @@ Autores:
 =======
 - Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
 - Daniel David Fernandes - <https://github.com/danieldavidf>
+- Felipe Araújo da Silva - <https://github.com/liooh>
 - Felipe Rebouças Ferreira Abreu - <https://github.com/baquara>
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
