@@ -16,5 +16,6 @@ Autores:
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Pedro Augusto Vitor de Santana <https://github.com/pedroaugustovitor>
+- Roberto Bruno Leal Andrade - <https://github.com/rbrunoleal>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
