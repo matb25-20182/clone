@@ -16,6 +16,7 @@ Autores:
 - Felipe Rebouças Ferreira Abreu - <https://github.com/baquara>
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Gabriel Dahia Fernandes - <https://github.com/gdahia>
+- Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Pedro Augusto Vitor de Santana <https://github.com/pedroaugustovitor>
