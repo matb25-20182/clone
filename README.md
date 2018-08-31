@@ -11,6 +11,7 @@ Autores:
 - Ana Íris Carvalho Santos - <https://github.com/anairissantos>
 - Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
 - Bruno Guilera Ferreira - <https://github.com/guilera>
+- Caio Vinicius Santos Souza - <https://github.com/caiosouzagit>
 - Daniel David Fernandes - <https://github.com/danieldavidf>
 - David Sodré Lins da Silva - <https://github.com/davidweezing>
 - Felipe Araújo da Silva - <https://github.com/liooh>
