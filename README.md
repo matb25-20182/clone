@@ -17,12 +17,14 @@ Autores:
 - Felipe Rebouças Ferreira Abreu - <https://github.com/baquara>
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Gabriel Dahia Fernandes - <https://github.com/gdahia>
+- Gabriel Lecomte Pinho e Souza - <https://github.com/lecomte>
 - Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
 - Jônatas da Silva Santos <https://github.com/jonatasdasilva>
 - Leonardo Costa Silva <https://github.com/leocostaba>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Pedro Augusto Vitor de Santana <https://github.com/pedroaugustovitor>
+- Pedro Vidal Sales - <https://github.com/pedrovidal>
 - Roberto Bruno Leal Andrade - <https://github.com/rbrunoleal>
 - Roberto Sales Caldeira - <https://github.com/rsalesc>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
