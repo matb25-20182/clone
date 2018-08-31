@@ -23,6 +23,7 @@ Autores:
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Pedro Augusto Vitor de Santana <https://github.com/pedroaugustovitor>
 - Roberto Bruno Leal Andrade - <https://github.com/rbrunoleal>
+- Roberto Sales Caldeira - <https://github.com/rsalesc>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Ubiratan Correia Barbosa Neto - <https://github.com/ubiratan37>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
