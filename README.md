@@ -30,5 +30,6 @@ Autores:
 - Roberto Sales Caldeira - <https://github.com/rsalesc>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
 - Ubiratan Correia Barbosa Neto - <https://github.com/ubiratan37>
+- Weslley Daltro de Castro Silva - <https://github.com/weslleydcs>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
 - Ari Santos Costa - <https://github.com/rackiduck>

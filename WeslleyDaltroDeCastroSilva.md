@@ -1,0 +1,1 @@
+Meu nome é Weslley Daltro de Castro Silva, sou aluno da disicplina de Tópicos em Engenharia de Software, e espero obter mais conhecimentos sobre git/github e ferramentas de testes automatizados para poder aplicá-los futuramente.
