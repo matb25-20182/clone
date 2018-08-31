@@ -20,6 +20,7 @@ Autores:
 - Gabriel Dahia Fernandes - <https://github.com/gdahia>
 - Gabriel Lecomte Pinho e Souza - <https://github.com/lecomte>
 - Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
+- Ian Pierre Gomes Santos <https://github.com/ianpierreg>
 - Jônatas da Silva Santos <https://github.com/jonatasdasilva>
 - Leonardo Costa Silva <https://github.com/leocostaba>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
