@@ -20,14 +20,14 @@ Autores:
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Gabriel Dahia Fernandes - <https://github.com/gdahia>
 - Gabriel Lecomte Pinho e Souza - <https://github.com/lecomte>
-- Ian Pierre Gomes Santos <https://github.com/ianpierreg>
-- Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
-- Jônatas da Silva Santos <https://github.com/jonatasdasilva>
+- Ian Pierre Gomes Santos - <https://github.com/ianpierreg>
+- Ícaro Luan Rodrigues Freitas - <https://github.com/icaroluan>
+- Jônatas da Silva Santos - <https://github.com/jonatasdasilva>
 - Joselito Mota Júnior - <https://github.com/joselitojunior94>
-- Leonardo Costa Silva <https://github.com/leocostaba>
+- Leonardo Costa Silva - <https://github.com/leocostaba>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
-- Pedro Augusto Vitor de Santana <https://github.com/pedroaugustovitor>
+- Pedro Augusto Vitor de Santana - <https://github.com/pedroaugustovitor>
 - Pedro Vidal Sales - <https://github.com/pedrovidal>
 - Rafael Sandes Silva - <https://github.com/rafaelsandes>
 - Roberto Bruno Leal Andrade - <https://github.com/rbrunoleal>
