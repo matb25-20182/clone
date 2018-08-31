@@ -1,0 +1,1 @@
+Espero aprender sobre boas práticas em Engenharia de Software envolvendo controle de versões e teste automatizados. Duas áreas que aprecio. 
