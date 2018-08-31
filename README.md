@@ -21,6 +21,7 @@ Autores:
 - Gabriel Lecomte Pinho e Souza - <https://github.com/lecomte>
 - Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
 - Jônatas da Silva Santos <https://github.com/jonatasdasilva>
+- Joselito Mota Júnior - <https://github.com/joselitojunior94>
 - Leonardo Costa Silva <https://github.com/leocostaba>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
