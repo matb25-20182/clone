@@ -18,6 +18,7 @@ Autores:
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Gabriel Dahia Fernandes - <https://github.com/gdahia>
 - Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
+- Jônatas da Silva Santos <https://github.com/jonatasdasilva>
 - Leonardo Costa Silva <https://github.com/leocostaba>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
