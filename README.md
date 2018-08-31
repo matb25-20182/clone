@@ -27,6 +27,7 @@ Autores:
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Pedro Augusto Vitor de Santana <https://github.com/pedroaugustovitor>
 - Pedro Vidal Sales - <https://github.com/pedrovidal>
+- Rafael Sandes Silva - <https://github.com/rafaelsandes>
 - Roberto Bruno Leal Andrade - <https://github.com/rbrunoleal>
 - Roberto Sales Caldeira - <https://github.com/rsalesc>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
