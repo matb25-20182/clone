@@ -8,6 +8,7 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 Autores:
 =======
 - Alan Militão Atta Magalhães - <https://github.com/attaalan>
+- Ana Íris Carvalho Santos - <https://github.com/anairissantos>
 - Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
 - Bruno Guilera Ferreira - <https://github.com/guilera>
 - Daniel David Fernandes - <https://github.com/danieldavidf>
