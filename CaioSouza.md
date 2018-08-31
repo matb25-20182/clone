@@ -1,0 +1,1 @@
+Meu nome é Caio Vinicius Santos Souza, sou aluno da disciplina Tópicos em Engenharia de Software, e espero aprender novas técnicas e ferramentas que serão úteis para o desenvolvimento de software e o mercado de trabalho.
