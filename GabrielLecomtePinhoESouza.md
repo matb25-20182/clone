@@ -1,0 +1,1 @@
+Meu nome é Gabriel Lecomte Pinho e Souza, sou aluno do curso de Ciência da Computação e espero aprender na disciplina mais sobre controle de versionamento e uso de testes automatizados em ambientes de desenvolvimento.
