@@ -10,6 +10,7 @@ Autores:
 - Alan Militão Atta Magalhães - <https://github.com/attaalan>
 - Ana Íris Carvalho Santos - <https://github.com/anairissantos>
 - Antônio Lucas Ferreira de Souza - <https://github.com/alfsouza708>
+- Ari Santos Costa - <https://github.com/rackiduck>
 - Bruno Guilera Ferreira - <https://github.com/guilera>
 - Caio Vinicius Santos Souza - <https://github.com/caiosouzagit>
 - Daniel David Fernandes - <https://github.com/danieldavidf>
@@ -35,4 +36,3 @@ Autores:
 - Ubiratan Correia Barbosa Neto - <https://github.com/ubiratan37>
 - Weslley Daltro de Castro Silva - <https://github.com/weslleydcs>
 - Wiliam Gomes Conceição - <https://github.com/Will19>
-- Ari Santos Costa - <https://github.com/rackiduck>
