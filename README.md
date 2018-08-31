@@ -20,8 +20,8 @@ Autores:
 - Fernando de Macedo Passos - <https://github.com/fernandodmp>
 - Gabriel Dahia Fernandes - <https://github.com/gdahia>
 - Gabriel Lecomte Pinho e Souza - <https://github.com/lecomte>
-- Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
 - Ian Pierre Gomes Santos <https://github.com/ianpierreg>
+- Ícaro Luan Rodrigues Freitas <https://github.com/icaroluan>
 - Jônatas da Silva Santos <https://github.com/jonatasdasilva>
 - Joselito Mota Júnior - <https://github.com/joselitojunior94>
 - Leonardo Costa Silva <https://github.com/leocostaba>
