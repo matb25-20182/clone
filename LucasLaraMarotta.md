@@ -1,1 +1,1 @@
-Lucas
+Aprofundar conhecimentos sobre testes, validação e controle de versão em projetos.
