@@ -27,6 +27,7 @@ Autores:
 - Katharine Schramm Rodrigues - <https://github.com/katharineschramm>
 - Kênia Arruda Guimarães - <https://github.com/keniaguimaraes>
 - Leonardo Costa Silva - <https://github.com/leocostaba>
+- Lucas Lara Marotta - <https://github.com/lucasmarotta>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
 - Mayara de Jesus Silva - <https://github.com/mayaradjs>
 - Pedro Augusto Vitor de Santana - <https://github.com/pedroaugustovitor>
