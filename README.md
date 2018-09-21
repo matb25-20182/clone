@@ -1,4 +1,4 @@
-Este é o primeiro exercício da disciplina MATB25 - Tópicos em Engenharia de Software, ministrada na UFBA no semestre 2018.2 pelo professor Rodrigo Rocha.
+Este é o primeiro exercício da disciplina MATB25 - Tópicos em Engenharia de Software, ministrada na UFBA no semestre 2018.2 pelo professor Rodrigo Rocha Gomes e Souza.
 
 Os estudantes deverão clonar o repositório e então realizar duas contribuições:
 
