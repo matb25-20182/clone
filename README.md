@@ -24,6 +24,7 @@ Autores:
 - Ícaro Luan Rodrigues Freitas - <https://github.com/icaroluan>
 - Jônatas da Silva Santos - <https://github.com/jonatasdasilva>
 - Joselito Mota Júnior - <https://github.com/joselitojunior94>
+- Katharine Schramm Rodrigues - <https://github.com/katharineschramm>
 - Kênia Arruda Guimarães - <https://github.com/keniaguimaraes>
 - Leonardo Costa Silva - <https://github.com/leocostaba>
 - Mateus Gonçalves Barreto - <https://github.com/barretomateus>
